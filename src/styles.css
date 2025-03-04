@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+
+.active-link{
+    background-color: #1ABC9C;
+padding: 8px;
+    border-radius: 5px 8px;
+    color: white;
+}
+
+.line-star{
+    background-color: #fff;
+    width: 60px;
+    height: 3px;
+    display: inline-block;
+}
+
+.home,
+.about
+{
+    background-color: #1ABC9C;
+    min-height: 100vh;
+}
+.title-color{
+    color: #3c3e50;
+}
+
+.bg-color{
+   background-color: #2C3E50; 
+}
+
+.all-sections{
+padding-top: 80px ;
+padding-bottom: 80px;
+}
+
+.cursor-pointer{
+   cursor: pointer; 
+}

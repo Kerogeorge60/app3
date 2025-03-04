@@ -1,0 +1,12 @@
+.linee-star{
+    background-color: #1a1919;
+    width: 60px;
+    height: 3px;
+    display: inline-block;
+}
+
+
+.contact-btn{
+    background-color: #1abc9c !important;
+    border-color: #1abc9c !important;
+}
